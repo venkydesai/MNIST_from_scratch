@@ -47,3 +47,7 @@ Backprop
 - $dZ^{[1]}$: 10 x m ($~A^{[1]}$)
 - $dW^{[1]}$: 10 x 10
 - $dB^{[1]}$: 10 x 1
+
+# Results
+
+![](https://github.com/venkydesai/MNIST_from_scratch/blob/main/image.png)
